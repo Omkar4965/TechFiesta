@@ -24,7 +24,7 @@
 
 ### X Factor
 1. Mental Fitness Gym :  Gamify self-care practices by creating a "gym" with different "workouts" for stress management, emotional regulation, and cognitive skills.
-2. Personalized Mental Health Journey: Create a guided pathway based on user needs and preferences, offering relevant resources, exercises, and tools throughout their journey.
+2. ~~Personalized Mental Health Journey: Create a guided pathway based on user needs and preferences, offering relevant resources, exercises, and tools throughout their journey.~~
 3. AI-powered Chatbot: Develop a friendly and supportive chatbot that can answer FAQs, provide basic coping mechanisms, and offer emotional support through conversations.
 4. Group Activities and Challenges: Organize online challenges, workshops, or support groups around specific mental health topics, fostering a sense of belonging and community.
 5. Expert Q&A Sessions: Host live or pre-recorded sessions with mental health professionals where users can ask questions and gain expert insights.
